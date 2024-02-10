@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1706627538 source:c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1706627541 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\cjson.h
+	<stddef.h>
+
+1707473881 source:c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\game1.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"cJSON.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro5.h
+	"allegro.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1372629528 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\alplatf.h
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\alunix.h
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\color.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\path.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1372628283 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\blender.h
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\config.h
+	"allegro5/file.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\error.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1368969907 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\fullscreen_mode.h
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\keycodes.h
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\memory.h
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\monitor.h
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\timer.h
+	"allegro5/base.h"
+
+1362327500 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\alcompat.h
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1372628331 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1362327499 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1362327499 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro_image.h
+
+1362327499 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\allegro-5.0.10\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1706546842 c:\users\reynard\desktop\river raid - copy\river raid\fixedriver\menu\menutest.h
+
